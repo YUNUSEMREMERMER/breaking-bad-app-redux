@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.App > nav {
+  background-color: #808080;
+}
+
+.App  nav  ul {
+  display: flex;
+  padding-top:10px ;
+  list-style-type: none;
+  gap: 40px;
+  text-decoration-line: none;
+}
+.App  nav  ul li a{
+  color: white;
+}
